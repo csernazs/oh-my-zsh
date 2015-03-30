@@ -81,3 +81,15 @@ export PATH="/home/zsolt/bin:/home/zsolt/.local/bin:/usr/local/sbin:/usr/local/b
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 export TIMEFMT=$'\nreal\t%E\nuser\t%U\nsys\t%S'
+alias diff=colordiff
+#export MAKEFLAGS="-j4"
+#export WAFFLAGS="-j4"
+#export CFLAGS="-O0 -g"
+#export CXXFLAGS="-O0 -g"
+#export LDFLAGS="-g"
+#export LINKFLAGS="-g"
+#export ZWA_CONFIG_OPTS=--enable-debug
+#export STEW_CONFIG_OPTS=--enable-debug
+
+alias scb=~/zwa/projects/scb-4.1/source/scb
+alias nnx=~/zwa/projects/nnx/source/nnx
