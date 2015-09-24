@@ -92,4 +92,12 @@ alias diff=colordiff
 #export STEW_CONFIG_OPTS=--enable-debug
 
 alias scb=~/zwa/projects/scb-4.1/source/scb
-alias nnx=~/zwa/projects/nnx/source/nnx
+alias nnx=~/zwa/projects/nnx/source/scb-4.2
+alias zorpos=~/zwa/projects/zorpos-5.0/source
+
+alias 40=~/zwa/projects/scb-4.0/source/scb
+alias 41=~/zwa/projects/scb-4.1/source/scb
+alias 42=~/zwa/projects/scb-4.2/source/scb
+alias ff='find . -name '
+alias gs='git show'
+alias gl='git log'
